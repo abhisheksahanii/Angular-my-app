@@ -13,4 +13,5 @@ export type ButtonType = "primary" | "secondary" | "tertiary" | "ghost" | "dange
 
 export type ButtonSize = "sm" | "field" | "lg" | "xl";
 
+import { ButtonModule } from 'carbon-components-angular';
 
